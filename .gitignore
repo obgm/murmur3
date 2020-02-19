@@ -1,0 +1,11 @@
+*.o
+*~
+\#.*#
+*.patch
+core
+.deps/
+.dirstamp
+
+TAGS
+
+murmur3
